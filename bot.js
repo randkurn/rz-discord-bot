@@ -18,9 +18,12 @@ var query = require('samp-query');
 const botChar = "/"; // Bot prefix character
 let Samp_IP = "185.12.126.180";
 let Samp_Port = 7777;
-let Community_Tag ="WG";
-
-let userToSubmitApplicationsTo = '900981870655860756';//Default Channel Id for User Applications
+let Community_Tag ="RZ";
+    await gamedig.query({
+      type: 'samp',
+      host: args[0],
+      port: args[1]}}
+let userToSubmitApplicationsTo = '900770848133226516';//Default Channel Id for User Applications
 let reportChannelID = '900770848133226516'; // Channel for the ingam reports
 let adminCmdsChannelID = '898521313830895648'; // Admin Cmds channel
 let Bot_debug_mode = false;
