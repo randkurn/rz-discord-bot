@@ -589,7 +589,7 @@ const helpinfo = (msg) => {
 
     const logMessage = {
         embed: {
-            title: `Discord Bot DumbleDore Help Info`,
+            title: `Discord Bot Runzone Help Info`,
             color: embedColor,
             fields: [
 				{ name: 'Player Cmds', value: pcmds, inline: true },
@@ -609,10 +609,10 @@ const helpinfo = (msg) => {
 client.on('message', msg => {
 
 	//------------------------------[Medthod 1 For cmds]--------------------------------
-    if (msg.content === 'dumbledore') 
+    if (msg.content === 'Runzone') 
     {
 
-        msg.reply(`Hi Im Dumbledore ${Community_Tag} Bot`);
+        msg.reply(`Hi Im Runzone ${Community_Tag} Bot`);
 
     }
 
