@@ -16,13 +16,13 @@ var query = require('samp-query');
 //@audit Settings
 
 const botChar = "/"; // Bot prefix character
-let Samp_IP = "51.178.138.254";
+let Samp_IP = "185.12.126.180";
 let Samp_Port = 7777;
 let Community_Tag ="WG";
 
-let userToSubmitApplicationsTo = '710195458680684695';//Default Channel Id for User Applications
-let reportChannelID = '714432112031170562'; // Channel for the ingam reports
-let adminCmdsChannelID = '710195250911641741'; // Admin Cmds channel
+let userToSubmitApplicationsTo = '900981870655860756';//Default Channel Id for User Applications
+let reportChannelID = '900770848133226516'; // Channel for the ingam reports
+let adminCmdsChannelID = '898521313830895648'; // Admin Cmds channel
 let Bot_debug_mode = false;
 
 //_______________________________[APPLICATIONS]______________________________________________
@@ -45,7 +45,7 @@ var db = mysql.createConnection({
 //@audit-ok Client Ready
 client.on('ready', () => {
 
-    console.log('Dumbledore Woke Up from sleep!');
+    console.log('Runzone Bangun dari Tidurnya!');
 	console.log(`Logged in as ${client.user.tag}!`);
 	setTimeout(getLastReportId, 1000);
 	setInterval(ReportSync, 20000);
