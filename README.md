@@ -7,34 +7,6 @@
 <strong><i>Bot Discord untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
 <br>
 <br>
-<hr>
-
-
-
-<a href="https://travis-ci.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
-    <img src="https://img.shields.io/travis/com/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge" alt="Build">
-</a>
-
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
-    <img src="https://img.shields.io/github/languages/top/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=f0db4f&style=for-the-badge" alt="Languages">
-</a>
-
-<br>
-
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
-    <img src="https://img.shields.io/github/package-json/v/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=Orange&style=for-the-badge" alt="Version">
-</a>
-
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/issues">
-    <img src="https://img.shields.io/github/issues/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge&colorB=37f149" alt="Issues">
-</a>
-
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/pulls">
-    <img src="https://img.shields.io/github/issues-pr/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
-</a>
-
-<br>
-<br>
 </div>
 <hr>
 <br>
