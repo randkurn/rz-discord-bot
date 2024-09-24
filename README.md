@@ -14,7 +14,7 @@
 
 # RZ Discord Bot with AI Integration
 
-## Deskripsi Proyek
+## Deskripsi Projek
 Proyek ini adalah sebuah bot Discord yang terintegrasi dengan Kecerdasan Buatan (AI) menggunakan API dari OpenAI. Bot ini dapat melakukan percakapan secara dinamis dengan pengguna, menjawab pertanyaan, dan memproses perintah khusus terkait server SA-MP (San Andreas Multiplayer). Bot ini dirancang untuk komunitas SA-MP, dengan kemampuan untuk menampilkan informasi tentang server dan memberikan fitur interaktif melalui AI chatbot.
 
 ---
@@ -78,7 +78,7 @@ node bot.js
 
 ## Integrasi AI
 
-Proyek ini menggunakan model AI dari OpenAI yang berfungsi untuk melakukan percakapan dengan pengguna secara interaktif. Dengan menggunakan perintah `!chatbot`, bot dapat memproses pesan dan memberikan balasan yang sesuai berdasarkan konteks percakapan.
+Proyek ini menggunakan model kecerdasan buatan (AI) dari OpenAI yang berfungsi untuk melakukan percakapan dengan pengguna secara interaktif. Dengan menggunakan perintah `!chatbot`, bot dapat memproses pesan dan memberikan balasan yang sesuai berdasarkan konteks percakapan.
 
 ### Contoh Kode Integrasi AI:
 
@@ -119,8 +119,7 @@ client.login(process.env.DISCORD_TOKEN);
 
 ## Link Repository GitHub
 Untuk informasi lebih lanjut dan pengembangan lebih lanjut, Anda dapat mengunjungi repository GitHub proyek ini:
-[Link ke Repository](https://github.com/username/discord-bot-ai)
+[Link ke Repository]([https://github.com/randkurn/rz-discord-bot])
 
 ---
 
-README ini mencakup penjelasan singkat proyek bot Discord yang terintegrasi dengan AI, sesuai dengan ketentuan yang diberikan.
