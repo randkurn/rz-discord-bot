@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/MkFud1l.png" align="center" alt="Logo" height="100">
 <br>
 <br>
-<strong><i>RZ Bot Discord untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
+<strong><i>RZ Discord Bot untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
 <br>
 <br>
 </div>
