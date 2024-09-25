@@ -8,9 +8,6 @@
 <br>
 <br>
 </div>
-<hr>
-<br>
----
 
 # RZ Discord Bot with AI Integration
 
