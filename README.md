@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/MkFud1l.png" align="center" alt="Logo" height="100">
 <br>
 <br>
-<strong><i>Bot Discord untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
+<strong><i>RZ Bot Discord untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
 <br>
 <br>
 </div>
@@ -27,13 +27,44 @@ Projek ini adalah sebuah bot Discord yang terintegrasi dengan Kecerdasan Buatan 
 
 ---
 
+## Requirements ⚙️
+
+Untuk menjalankan projek **RZ Discord Bot dengan AI Integration**, pastikan lingkungan pengembangan Anda memenuhi persyaratan berikut:
+
+### 1. **Software**
+- **Node.js** versi 16.x atau lebih baru.
+- **npm** (Node Package Manager) yang sudah terinstal bersama Node.js.
+
+### 2. **Dependencies** (Akan diinstal menggunakan `npm install`)
+- **discord.js**: Library utama untuk mengontrol dan berinteraksi dengan API Discord.
+- **openai**: Untuk mengakses model AI OpenAI yang diperlukan dalam pemrosesan percakapan.
+- **dotenv**: Untuk mengelola konfigurasi sensitif seperti API key dan token secara aman.
+
+### 3. **API Keys**
+- **Discord Token**: Anda perlu mendaftarkan aplikasi di Discord Developer Portal untuk mendapatkan token yang dibutuhkan bot agar bisa berjalan.
+- **OpenAI API Key**: Diperlukan untuk mengakses layanan OpenAI (misalnya GPT-3) untuk melakukan percakapan interaktif dengan bot.
+
+### 4. **File Konfigurasi**
+- **.env File**: File ini harus disiapkan di direktori utama projek untuk menyimpan kunci API. Contohnya:
+  ```
+  DISCORD_TOKEN=your-discord-token-here
+  OPENAI_API_KEY=your-openai-api-key-here
+  ```
+
+### 5. **Permission Bot**
+- Bot Discord harus memiliki akses ke channel dan izin untuk mengirim pesan dan membaca konten pesan.
+- Pastikan bot diberi izin "Send Messages", "Read Message History", dan "Manage Messages" di server tempat bot akan dioperasikan.
+
+---
+
+
 ## Cara Install 📝
 
 ### 1. Clone Repository
 Pertama, clone repository dari GitHub ke dalam komputer Anda:
 ```bash
-git clone https://github.com/username/discord-bot-ai
-cd discord-bot-ai
+git clone https://github.com/randkurn/rz-discord-bot
+cd rz-discord-bot
 ```
 
 ### 2. Install Dependensi
