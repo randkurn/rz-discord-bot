@@ -3,13 +3,13 @@
 <div align="center">
 <img src="https://i.imgur.com/MkFud1l.png" align="center" alt="Logo" height="100">
 <br>
-<br>
-<strong><i>RZ Discord Bot untuk mengetahui detail server SAMP tertentu + Penggunaan Fitur Chatbot (OpenAI) </i></strong>
-<br>
-<br>
 </div>
 
 # RZ Discord Bot with AI Integration
+
+## Nama : Muhammad Randy Kurniawan 
+## NIM  : 2405315
+## Kelas: MKB 1C
 
 ## Deskripsi Projek
 Projek ini adalah sebuah bot Discord yang terintegrasi dengan Kecerdasan Buatan (AI) menggunakan API dari OpenAI. Bot ini dapat melakukan percakapan secara dinamis dengan pengguna, menjawab pertanyaan, dan memproses perintah khusus terkait server SA-MP (San Andreas Multiplayer). Bot ini dirancang untuk komunitas SA-MP, dengan kemampuan untuk menampilkan informasi tentang server dan memberikan fitur interaktif melalui AI chatbot.
