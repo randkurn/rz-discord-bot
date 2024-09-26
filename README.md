@@ -7,9 +7,10 @@
 
 # RZ Discord Bot with AI Integration
 
-## Nama : Muhammad Randy Kurniawan 
-## NIM  : 2405315
-## Kelas: MKB 1C
+## Introduce
+Nama : Muhammad Randy Kurniawan 
+NIM  : 2405315
+Kelas: MKB 1C
 
 ## Deskripsi Projek
 Projek ini adalah sebuah bot Discord yang terintegrasi dengan Kecerdasan Buatan (AI) menggunakan API dari OpenAI. Bot ini dapat melakukan percakapan secara dinamis dengan pengguna, menjawab pertanyaan, dan memproses perintah khusus terkait server SA-MP (San Andreas Multiplayer). Bot ini dirancang untuk komunitas SA-MP, dengan kemampuan untuk menampilkan informasi tentang server dan memberikan fitur interaktif melalui AI chatbot.
